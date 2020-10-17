@@ -1,5 +1,5 @@
 # lampr_
-### iterm2 dark/light theme switcher for macOs
+### iterm2 dark/light theme switcher for macOs
 
 <p align="left">
     <img src="https://media.giphy.com/media/K5VTRxqehgkNVKCJv5/source.gif" />
